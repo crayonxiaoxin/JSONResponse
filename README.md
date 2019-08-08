@@ -11,7 +11,7 @@ new JSONResponse(context,url,parameters,callback);
 ```
 
 ## Constructor
-兼容旧版本
+兼容新旧版本
 #### old version
 ```java
 public JSONResponse(Context c, String u, onComplete cb)
