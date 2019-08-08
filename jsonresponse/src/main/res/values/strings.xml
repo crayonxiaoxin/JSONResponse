@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSONResponse</string>
+    <string name="connection_error">未能連接網絡。請檢查你的網絡。</string>
+</resources>

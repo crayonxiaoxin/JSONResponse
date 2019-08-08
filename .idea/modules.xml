@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSONResponseDemo.iml" filepath="$PROJECT_DIR$/JSONResponseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonresponse/jsonresponse.iml" filepath="$PROJECT_DIR$/jsonresponse/jsonresponse.iml" />
+    </modules>
+  </component>
+</project>
