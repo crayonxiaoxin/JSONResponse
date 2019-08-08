@@ -2,7 +2,7 @@
 
 ## Gradle
 ```java
-compile 'com.efortunetech:JSONResponse:1.0.1'
+implementation 'com.efortunetech:JSONResponse:1.0.1'
 ```
 
 ## Usage
